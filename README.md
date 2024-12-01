@@ -1,6 +1,6 @@
 <p align="center">
   <strong>
-    ## 👋 Hi, I’m Zeus
+    👋 Hi, I’m Zeus
   </strong>
 </p>
 
