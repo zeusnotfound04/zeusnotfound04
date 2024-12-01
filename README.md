@@ -1,9 +1,10 @@
 <p align="center">
   <strong>
-    👋 Hi, I’m Zeus <br>
-      <a href="[https://skillicons.dev](https://github.com/Jurredr/github-widgetbox)">
+    <span style="font-size: 32px;">👋 Hi, I’m Zeus</span> <br>
+    <a href="https://github.com/Jurredr/github-widgetbox">
   </strong>
 </p>
+
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=420&height=45&lines=Developer+and+enthusiast;Scripting+%7C+Deployment+%7C+Pentesting;Always+learning+new+technologies" alt="Typing SVG" /></a>
