@@ -1,6 +1,6 @@
 <p align="center">
   <strong>
-    <span style="font-size: 32px;">👋 Hi, I’m Zeus</span> <br>
+    <span style="font-size: 50px;">👋 Hi, I’m Zeus</span> <br>
     <a href="https://github.com/Jurredr/github-widgetbox">
   </strong>
 </p>
