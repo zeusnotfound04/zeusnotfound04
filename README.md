@@ -66,7 +66,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zeusnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zeusnotfound" height="30" width="40" /></a>
+<a href="https://dev.to/zeusnotfound1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zeusnotfound" height="30" width="40" /></a>
 <a href="https://twitter.com/zeus_notfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeus_notfound" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishesh-prajapati-520599302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh-prajapati-520599302" height="30" width="40" /></a>
 <a href="https://instagram.com/zeusnotfound04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeusnotfound04" height="30" width="40" /></a>
