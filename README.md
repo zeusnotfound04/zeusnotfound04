@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
   <img width="12" />
+<img src="https://w7.pngwing.com/pngs/929/464/png-transparent-prisma-hd-logo.png" height="40" alt="node logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
