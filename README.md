@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
   <img width="12" />
-<img src="https://w7.pngwing.com/pngs/929/464/png-transparent-prisma-hd-logo.png" height="40" alt="node logo"  />
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" height="40" alt="node logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
   <img width="12" />
