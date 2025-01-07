@@ -1,6 +1,6 @@
 <p align="center">
   <strong>
-    👋 Heyooo Wasssup!!!, I’m Zeus Notfound
+    👋 Heyooo Wasssup!!!, I’m Zeus Notfound 
   </strong>
 </p>
 
@@ -84,9 +84,5 @@
 
 
 
-
-
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
