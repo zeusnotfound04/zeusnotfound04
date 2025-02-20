@@ -1,6 +1,6 @@
 <p align="center">
   <strong>
-    👋 Heyooooo Wasssup!!, I’m Zeus Notfound 
+    👋 Heyooo Wasssup!!, I’m Zeus Notfound 
   </strong>
 </p>
 
