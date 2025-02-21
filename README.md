@@ -62,7 +62,8 @@
 </p>
 
 <pre>
-🔭 I’m currently working on Zeus Store
+🔭 I’m currently working on Deciball
+
 
 🌱 I’m currently learning Next JS
 
