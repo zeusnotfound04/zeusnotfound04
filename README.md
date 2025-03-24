@@ -64,8 +64,7 @@
 <pre>
 🔭 I’m currently working on Deciball
 
-
-🌱 I’m currently learning Next JS
+🌱 I’m currently learning Golang
 
 📫 How to reach me zeusnotfound0@gmail.com
 </pre>
