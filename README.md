@@ -66,7 +66,7 @@
 
 🚀 I’m currently learning Golang
 
-📫 How to reach me zeusnotfound0@gmail.com
+📫 Email: zeusnotfound0@gmail.com
 </pre>
 
 
