@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
