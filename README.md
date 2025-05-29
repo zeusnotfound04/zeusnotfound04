@@ -67,7 +67,7 @@
 <pre>
 🔭 I’m currently working on Deciball
 
-🚀 I’m currently learning Golang
+🚀 I’m currently learning Web3
 
 📫 Email: zeusnotfound0@gmail.com
 </pre>
