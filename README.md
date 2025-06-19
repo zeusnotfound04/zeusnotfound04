@@ -58,21 +58,6 @@
 
 
 
-<p align="center">
-  <strong>
-💫 About Me:
-  </strong>
-</p>
-
-<pre>
-🔭 I’m currently working on Deciball
-
-🚀 I’m currently learning Web3
-
-📫 Email: zeusnotfound0@gmail.com
-</pre>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zeusnotfound1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zeusnotfound" height="30" width="40" /></a>
